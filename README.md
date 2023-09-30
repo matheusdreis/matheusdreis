@@ -15,8 +15,11 @@
 <div align="center"> 
 <a href="https://instagram.com/123" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "matheusreisborges@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+<a href="https://www.linkedin.com/in/123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> </div>
+
+<div align="right">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1814363346978280022/5B9685FB7E84FE5978C36FD1413D4A0DC66C3FCE/?imw=268&amp;imh=268&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width:268px; height: 177px; margin: 0px; width: 177px;" alt="Steam Workshop::Makima - Chainsaw Man" jsname="kn3ccd">
+</div>
  
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
@@ -38,4 +41,8 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
+
+
+
+
 
